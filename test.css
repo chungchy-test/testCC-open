@@ -1,4 +1,5 @@
 .teset{
   position: absolute;
   color:aquamarine;
+  position: inherit;
 }
