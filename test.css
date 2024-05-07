@@ -2,4 +2,5 @@
   position: absolute;
   color:aquamarine;
   position: inherit;
+  z-index: 0;
 }
